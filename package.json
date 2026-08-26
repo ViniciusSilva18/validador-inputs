@@ -1,0 +1,1 @@
+{"name":"validador-inputs","version":"1.0.0","description":"Biblioteca de validação e sanitização para prevenção de injeções","main":"src/index.js","scripts":{"test":"node tests/index.test.js"},"keywords":["validation","sanitization","security","xss","sql-injection"],"license":"MIT"}

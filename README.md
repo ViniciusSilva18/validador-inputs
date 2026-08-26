@@ -9,6 +9,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/validador-inputs">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-validador-inputs&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## ✨ Funcionalidades
 - 📧 Validação de Email, URL, Telefone (PT/BR), NIF, Data
 - 🔒 Verificação de força de password (5 critérios)
